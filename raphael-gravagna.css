@@ -1,0 +1,63 @@
+body
+{
+	background-color: #f0ffff;
+	}
+
+
+h1 
+{
+	color: #1F5FB4;
+	font-family: arial, verdana, sans-serif; 
+	text-align : center;
+	background : white;
+border-style: solid;
+
+	!important
+}
+
+h2 
+{
+	color: #1F5FB4;
+	font-family: garamond, arial, verdana, sans-serif; 
+	border-style: double;
+	background: lightblue;
+	
+}
+
+.maclasse
+{
+	background-color: yellow;
+    left: 0%;
+    width: 35%;
+}
+
+.maclasse2
+{
+	background-color: green;
+}
+
+.maclasse3
+{
+	background-color: pink;
+}
+
+.gras
+{
+ font-weight: bold;
+}
+
+
+a:link{
+	color: #1F5FB4;
+}
+
+a:visited{
+	color: grey;
+}
+
+
+span {
+	background: lightblue;
+	diplay: block;
+	height: 50px;
+}

@@ -1,0 +1,69 @@
+body
+{
+	background-image: url("https://destreepacelibre.files.wordpress.com/2018/10/partie-dun-laby-extraiteprocessusdecc81formationprocessussymetriedecc81formationprocessussymetrie2.jpg?w=1180&h=435&crop=1");
+	background-repeat: no-repeat;
+	background-position: center;
+	
+	}
+	
+
+h1 
+{
+	color: #1F5FB4;
+	font-family: arial, verdana, sans-serif; 
+	text-align : center;
+	background : white;
+border-style: groove;
+
+	!important
+}
+
+h2 
+{
+	color: #1F5FB4;
+	font-family: garamond, arial, verdana, sans-serif; 
+	border-style: double;
+	background: white;
+	width: 30%
+
+	
+}
+
+.maclasse
+{
+    background-color: darkseagreen;
+    position: relative; left: 0%;
+    width: 15%;
+}
+
+.maclasse2
+{
+	background-color: green;
+	opacity: 40%;
+
+}
+
+.maclasse3
+{
+	text-align: center;
+	color: white;
+	background: grey;
+}
+
+.span1
+{
+	text-color: black;
+}
+
+.gras
+{
+ font-weight: bold;
+}
+
+a:link{
+	color: #1F5FB4;
+}
+
+a:visited{
+	color: grey;
+}
